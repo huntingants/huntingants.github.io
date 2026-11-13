@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.huntingants.discipleshipclass",
+    "sha256_cert_fingerprints": ["20:DD:A5:D2:E8:80:BA:23:C1:5B:1B:52:02:AB:9E:12:AA:AF:26:A9:9B:C6:D6:2C:52:98:19:B0:2C:35:33:6A"]
+  }
+}]
